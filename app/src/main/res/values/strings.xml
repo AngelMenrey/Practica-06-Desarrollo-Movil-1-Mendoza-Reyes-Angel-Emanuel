@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Practica06MendozaReyesAngelEmanuel</string>
+    <string name="titulo">Conciertos</string>
+    <string name="codigo">Código</string>
+    <string name="artista">Artista</string>
+    <string-array name="listaArtistas">
+        <item>Peso Pluma</item>
+        <item>Natanael Cano</item>
+        <item>Oscar Maydon</item>
+        <item>Gabito ballesteros</item>
+    </string-array>
+    <string name="asiento">Sección del Asiento</string>
+    <string name="normal">Normal</string>
+    <string name="premium">Premium</string>
+    <string name="lugar">Lugar</string>
+    <string name="costo">Costo</string>
+    <string name="horario">Horario</string>
+    <string-array name="listaHorario">
+        <item>8:00pm</item>
+        <item>9:00pm</item>
+        <item>10:00pm</item>
+        <item>11:00pm</item>
+    </string-array>
+    <string name="agregar">Agregar</string>
+    <string name="buscar">Buscar</string>
+    <string name="eliminar">Eliminar></string>
+    <string name="limpiar">Limpiar</string>
+    <string name="Concierto">Datos del Concierto</string>
+</resources>
